@@ -1,6 +1,8 @@
-
-
-
 python is more popular
 python is simple syntax
 python is high level
+python is oop language
+python is general purpose language
+python is invented  1989
+python invented james goslin
+
