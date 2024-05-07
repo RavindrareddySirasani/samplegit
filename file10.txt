@@ -1,3 +1,5 @@
 python is more populat
 python is high level languag
 python is dynamic typed programing language
+python is oop language
+
