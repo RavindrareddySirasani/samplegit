@@ -1,3 +1,7 @@
 python is more populat
 python is high level languag
 python is oop language
+
+
+
+python is scripting language
